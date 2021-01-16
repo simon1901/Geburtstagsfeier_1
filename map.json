@@ -896,8 +896,27 @@
          "tilewidth":32
         }, 
         {
+         "columns":16,
          "firstgid":321,
-         "source":"Modern.tsx"
+         "image":"Modern_2.png",
+         "imageheight":512,
+         "imagewidth":512,
+         "margin":0,
+         "name":"Modern_2",
+         "spacing":0,
+         "tilecount":256,
+         "tileheight":32,
+         "tiles":[
+                {
+                 "id":51,
+                 "properties":[
+                        {
+                         "name":"collides",
+                         "type":"bool",
+                         "value":true
+                        }]
+                }],
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
