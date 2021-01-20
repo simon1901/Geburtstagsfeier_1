@@ -163,7 +163,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/demo.hedgedoc.org\/B8FPPPadQBiREdWliWsdkg?both"
+                 "value":"https:\/\/pad.fmi-wuerzburg.de\/cIuwxMS6Ra-i32Y1u5UdfQ?both"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -181,7 +181,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"http:\/\/wordpad.de\/n\/Y5YzhhZGViNjQ2NDVlNDdlY2IxYTY5Y2M0NzkyNz"
+                 "value":"https:\/\/pad.fmi-wuerzburg.de\/dSWD4YvqQxWZRUuE_GpbMA"
                 }],
          "type":"tilelayer",
          "visible":true,
