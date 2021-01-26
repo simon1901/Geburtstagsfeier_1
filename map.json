@@ -217,7 +217,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/pad.fmi-wuerzburg.de\/dSWD4YvqQxWZRUuE_GpbMA#"
+                 "value":"https:\/\/pad.fmi-wuerzburg.de\/dSWD4YvqQxWZRUuE_GpbMA"
                 }],
          "type":"tilelayer",
          "visible":true,
