@@ -289,7 +289,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/hdoc.mlkr.eu\/MQhnTHb6Q2qMKBXfKFTH0A#"
+                 "value":"https:\/\/hdoc.mlkr.eu\/MQhnTHb6Q2qMKBXfKFTH0A?both"
                 }],
          "type":"tilelayer",
          "visible":true,
